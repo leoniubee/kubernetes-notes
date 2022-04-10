@@ -204,11 +204,3 @@
 ## 虚拟化
 
 * [虚拟化相关概念](kvm/vm-concept.md)
-
----
-
-# 赞赏
-
-> 如果觉得文章有帮助的话，可以打赏一下，谢谢！
-
-<img src="https://res.cloudinary.com/dqxtn0ick/image/upload/v1551599963/blog/donate.jpg" width="70%"/>
